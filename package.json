@@ -1,0 +1,24 @@
+{
+  "name": "expenses-tracker",
+  "version": "1.0.0",
+  "description": "Queremos crear un gestor de gastos parecido a [esto proyecto](https://roadmap.sh/projects/expense-tracker) pero con algunos cambios para simplificarlo y potenciar otras areas de la programación",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adurancastillo96/expenses-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adurancastillo96/expenses-tracker/issues"
+  },
+  "homepage": "https://github.com/adurancastillo96/expenses-tracker#readme",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
